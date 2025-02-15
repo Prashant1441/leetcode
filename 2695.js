@@ -9,3 +9,4 @@ let str= arr.map((item)=>JSON.stringify(item))
 console.log(str)
 
 console.log("[arn]")
+
